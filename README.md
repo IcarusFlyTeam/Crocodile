@@ -8,3 +8,4 @@ test private
 testttt
 test fork 2
 test fork 3
+test remote editing
