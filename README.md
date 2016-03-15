@@ -9,3 +9,4 @@ testttt
 test remote editing
 test remote editing 2
 test su remote fork
+test per pull
